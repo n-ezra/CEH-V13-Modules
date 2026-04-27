@@ -1,6 +1,0 @@
-metasploitable ip:192.168.22.128
-
->>nmap 192.168.22.128 - basic scan
->>nmap -sV 192.168.22.128 -vesion scan
->>nmap -sn 192.168.22.128 - target live or not
->>
