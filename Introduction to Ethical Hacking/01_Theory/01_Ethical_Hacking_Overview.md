@@ -1,11 +1,11 @@
 # Ethical Hacking Overview
 
-# 📌 Definition
+## 📌 Definition
 Ethical hacking is the practice of testing systems for vulnerabilities in a legal and authorized way.
 
-# 🎯 Purpose
+## 🎯 Purpose
 - Identify security weaknesses  
 - Protect systems from attacks  
 
-# 💡 Example
+## 💡 Example
 Companies hire ethical hackers to secure their systems.
